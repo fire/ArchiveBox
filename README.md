@@ -544,7 +544,7 @@ archivebox --version   # see info and check validity of installed dependencies
 
 Installing directly on **Windows without Docker or WSL/WSL2/Cygwin is not officially supported** (I cannot respond to Windows support tickets), but some advanced users have reported getting it working.
 
-For detailed information about ugprading ArchiveBox and its dependencies, see: https://github.com/ArchiveBox/ArchiveBox/wiki/Upgrading-or-Merging-Archives
+For detailed information about upgrading ArchiveBox and its dependencies, see: https://github.com/ArchiveBox/ArchiveBox/wiki/Upgrading-or-Merging-Archives
 
 <br/>
 
